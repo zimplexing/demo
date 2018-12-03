@@ -1,10 +1,10 @@
 {
-  'languageId': 'zh_CN',
-  'skin': 'redblack',
-  'breadcrumb': {
-    '001': ['welcome']
+  "languageId": "zh_CN",
+  "skin": "redblack",
+  "breadcrumb": {
+    "001": ["welcome"]
   },
-  'code': [
-    'template_001'
+  "code": [
+    "template_001"
   ]
 }
