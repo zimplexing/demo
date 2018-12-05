@@ -1,12 +1,16 @@
 {
   "userInfo":{
-    "languageId": "zh_CN",
-    "skin": "redblack",
-    "breadcrumb": {
-      "001": ["welcome"]
+    "code": 0,
+    "data": {
+      "languageId": "zh_CN",
+      "skin": "redblack",
+      "breadcrumb": {
+        "001": ["welcome"]
+      },
+      "code": [
+        "template_001"
+      ]
     },
-    "code": [
-      "template_001"
-    ]
+    "msg":"请求成功"
   }
 }
